@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Five Hours",
+  "base_artist": "Deorro",
+  "createdAt": "2026-03-06T16:40:50.750773Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Five Hours (Don't Hold Me Back) - Radio Edit",
+      "artist": "Deorro feat. Dycy",
+      "has_synced": true,
+      "path": "select/01_Five_Hours_(Don't_Hold_Me_Back)_-_Radio_Edit_Deorro_feat._Dycy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Five Hours (Don't Hold Me Back) (Radio Edit)",
+      "artist": "Deorro feat. DyCy",
+      "has_synced": true,
+      "path": "select/02_Five_Hours_(Don't_Hold_Me_Back)_(Radio_Edit)_Deorro_feat._DyCy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Five Hours (Radio Edit)",
+      "artist": "Deorro",
+      "has_synced": false,
+      "path": "select/03_Five_Hours_(Radio_Edit)_Deorro.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Five Hours (Radio Edit)",
+      "artist": "Deorro",
+      "has_synced": true,
+      "path": "select/04_Five_Hours_(Radio_Edit)_Deorro.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Twenty-Five Hours a day",
+      "artist": "The Hooters",
+      "has_synced": true,
+      "path": "select/05_Twenty-Five_Hours_a_day_The_Hooters.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Five Hours (Don't Hold Me Back) (vocal mix)",
+      "artist": "Deorro feat. Dycy",
+      "has_synced": true,
+      "path": "select/06_Five_Hours_(Don't_Hold_Me_Back)_(vocal_mix)_Deorro_feat._Dycy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Twenty Five Hours a Day",
+      "artist": "The Hooters",
+      "has_synced": true,
+      "path": "select/07_Twenty_Five_Hours_a_Day_The_Hooters.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Twenty-Five Hours A Day",
+      "artist": "Hooters",
+      "has_synced": true,
+      "path": "select/08_Twenty-Five_Hours_A_Day_Hooters.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Twenty-Five Hours Day",
+      "artist": "The Hooters",
+      "has_synced": true,
+      "path": "select/09_Twenty-Five_Hours_Day_The_Hooters.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Twenty Five Hours A Day",
+      "artist": "Hooters",
+      "has_synced": true,
+      "path": "select/10_Twenty_Five_Hours_A_Day_Hooters.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Five Hours (Don't Hold Me Back)",
+      "artist": "Deorro Feat. Dycy",
+      "has_synced": true,
+      "path": "select/11_Five_Hours_(Don't_Hold_Me_Back)_Deorro_Feat._Dycy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Five Hours",
+      "artist": "Deorro",
+      "has_synced": false,
+      "path": "select/pl_01_Five_Hours_Deorro.txt"
+    }
+  ]
+}
